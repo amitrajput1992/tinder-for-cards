@@ -17,7 +17,7 @@ body{
 }
 .header{
     background-color:#DA4622;
-    height:5%;
+    height:6%;
     text-align:center;
     padding-top:15px;
     color: #FFF;
@@ -27,7 +27,7 @@ body{
     padding-top:30px;
 }
 .cards-container{
-    height:50%;
+    height:350px
     padding:5% 5% 0% 5%;
 }
 .actions{
