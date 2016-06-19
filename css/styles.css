@@ -3,6 +3,18 @@ body{
     font-size: 12px;
     margin:0;
 }
+.header-icon{
+    background: url(../images/tinder-cars.png) no-repeat;
+    display:inline-block;
+    width:170px;
+    height:40px;
+    position:relative;
+}
+.header-icon span{
+    position:absolute;
+    top:8px;
+    left:32px;
+}
 .header{
     background-color:#DA4622;
     height:5%;
