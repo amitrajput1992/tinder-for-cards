@@ -1,4 +1,4 @@
-# tinder-for-cards
+# tinder-for-cars
 
 swipe UI similar to Tinder.
 Works both on browsers and touch devices.
