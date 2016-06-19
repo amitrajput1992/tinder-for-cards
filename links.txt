@@ -1,0 +1,8 @@
+https://github.com/pornel/slip
+https://codepen.io/developingidea/pen/meAIn/
+https://github.com/driftyco/ionic-ion-tinder-cards
+http://stackoverflow.com/questions/25718263/tinder-style-drag-gesture-and-drop-with-javascript
+http://stackoverflow.com/questions/17453846/swiping-through-photo-stack-like-tinder-cross-platform-hybrid-html5-is-ok
+http://labs.rampinteractive.co.uk/touchSwipe/demos/
+https://github.com/do-web/jTinder
+http://netcup-gutschein.x5c.de/jtinder/
